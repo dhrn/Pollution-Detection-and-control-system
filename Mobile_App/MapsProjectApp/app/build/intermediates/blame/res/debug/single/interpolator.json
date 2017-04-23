@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/dhrn/.android/build-cache/f1b9d2dac1cdf11e39677fdbec56c2f49729e180/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/dhrn/.android/build-cache/f1b9d2dac1cdf11e39677fdbec56c2f49729e180/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

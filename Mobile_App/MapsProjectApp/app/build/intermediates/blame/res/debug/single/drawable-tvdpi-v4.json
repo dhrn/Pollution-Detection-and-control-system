@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/dhrn/.android/build-cache/d250c1fb5f9355569d13980d1416dae50ae78616/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/dhrn/.android/build-cache/d250c1fb5f9355569d13980d1416dae50ae78616/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/dhrn/.android/build-cache/d250c1fb5f9355569d13980d1416dae50ae78616/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/dhrn/.android/build-cache/d250c1fb5f9355569d13980d1416dae50ae78616/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    }
+]

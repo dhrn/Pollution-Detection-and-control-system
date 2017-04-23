@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/dhrn/.android/build-cache/1928df86b893d6932dc856a78b28d447f7371142/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/dhrn/.android/build-cache/1928df86b893d6932dc856a78b28d447f7371142/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

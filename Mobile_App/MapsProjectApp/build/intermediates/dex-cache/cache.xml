@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/302dd8122ed19d339ca509ad0be8624e00c10ad9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_8db8a528a13413999ed737e2e4b866c885799b1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/5291d7538abb7498d08940445a3f8fd64150cd1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_59a626bda7710181f89364e1038159c99ccd7e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/50a8dc98ab2e2c6831d260894e468e6d2a94f8b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_d0a1a62fe48a8dd0d6d8b244c251fb2bc7cce606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/44f3f97d3e33a8e4de7210914962ca95da848ac4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_080b4c7bf64ed76ae7a462fa7eb0abe2e5deacba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/660ec0feecea78082f12281be8e78750d61f8fc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_704a8ca4729b6d9967ce1fe0767912f2fb585e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/46693fe796c69d79630076035b4485195a4d3dee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_992004c34a57b31036116165b1514bed39077d8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/d9a9e746c990f64d55684616d17d225d77a84b6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_d27e498036bee9f5a6656aaa9d40fda52292891f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/1656b11704c21f33c129cd0ababd18bc9d9309ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_525721b85a6910b6faba01841d54ef4b244692af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/0cdcdadfe93bda52cf19ab4da5b8be12ad93cb8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_f184027d3178aebc2ec086ff582e0fcd7fd6e533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/107c7f01c55e8e9bdd404abafef8857106314085/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_183203b3aacdcdbd82caff053c94c8e09e3b80c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/86617c134d8c8337944ba0b529fac5d3877ac3cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_e1b2347ffa46e513aa8168487fbabc0ac8bc73b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/1e20b35cdd010e41a8988330d06615ab6dc0e601/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_4b2de6e142a8c28fc9cde06a0295b467a0108b74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/1f8ad5f64cf29936ba70deef4f114264d811358a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_9f371e61e5d09ae73b2538780db6421fec7f6a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/8ea9c6099452256a588671041dfbb3f78bf3a883/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_8db559246d27d3e9c1cc43af563d9442f9088087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/0d87b91b3c1a85aad3855f2da22a55a1b5b22b91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_8bea35ab7ebcb2ef7b1a51e2524ca0a58d1c7d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/0440f8272e64d2dab933a79bbd52878eedc5e696/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_77257cc81935aff58644229c60cdea5929ade03a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/78e820603a65aab36e9a8330e45217e4ab31ec27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_d52c3b2dbd9e648093b288c1b299dcb586b573fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/603210aed4f6f72d11ddd13a2501f5ec39d14c88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_da973c7adb7d0e438ba585ba9153dc1b421a5ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/0f34017801110af163e25d3e40bdc492e92606ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_214997a1ba173d805850cd46cb4d9a867db772a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/03946d26711820485803401aabc13635659f97b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_ca38a3a0d33d3e214423964692b2b706e0714545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/6d9483e3922422dc7bc61d7c678da8d56cae198a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_09ffcdda0bc3c4422333bd679fc94a8423daf7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/6400393f5f9571b51b8a95f41c32b5d2346fc60d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_a63a490e4931197ecd42319e5a4e078282912518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/743b376fc14ddf08487290f498710d107a620bf8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_7af280c4e3c69f84d89476001f53acced074a7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/a1e1cb89b1b201165aaa01ae5262f7985eaa8b00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_3177463fead6980076cde0d4816ace1cddb1faab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/8792bb69b5a20fa40fe0cbebc7cc5e1c1984e753/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_e5df5d8f85587e16f0975b3209f60e9dd16ac21b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/c0bb53b7cef80206064c57717bace9570e8a5bb1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_932759346cdefa0715cb933011ba56995ec4dd01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/a7b39c7fb998cd6d6a3d99efe5df3a280405ab10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_f56b09088db750cf9273adb2cd03955ebe414fb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/b31ba35f3318760138859c616cc462da4132d5d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_595dbc7612bca234327db2f5c587415243866157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/2d3a34d8f89f2498890a97c30a66f6b6b2d5507c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_5dd7a9f38a2646cd8440664de52f281a11488fc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/7d0f4d7c6dbae3cd493d0147ba737aabd4c51fd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_e158548a0ed455a39ffe9d2050d1826719fc86d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/ae0fb5ac1248504fe3256dbb1f739d312fa64ee4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_b9058a18941575a50ab5c1cb96a738e2d14ce8ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/dfbfcd20d7deca26c20fdd3b9cc2982d0246c83f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_199c9b23f087c6435940c277f63329c5d7d7212c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/5484687c10c5c654f9f4c5108fbb10005571259b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_bc469a7a0256a6062b062f39d669218718951dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/fedab294ae90f09cb5b75a518f0e364cdc67f970/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_c30d632a743e06347ffff78b774a635dbb1a0f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/084ad20ae4f3500af312a054fec891a4a295b850/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_95a0cc05fb2e782c5c611e4756a28da134abc942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/d02e09b71d90169375738a97a4933a4ecdf161ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_91291e6e2985a3fce93a0883626faf474f048543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/e264f1f32b5ddbd7fc2f028108e8fecf2993a6b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_f0bf0647f6c3af4f6c585243775cb4fdc074357b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/53261a4c09947a28b7ed62ab255c09245009bebc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_b13833690e8e8526fdee502b5751253b8c634530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/d12d82ccc4cb028853a3e9196b338eefe85cc499/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_808c492309c3aed5e96dda93c5254e90f8c57079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/d250c1fb5f9355569d13980d1416dae50ae78616/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_57af4d0390a18369cfb5ad6bed7206fe51d45f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/faa2ae88d7f307ffd93ab6d2cadf54df87791eb4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_fae767183be46b6bdcaba5b93e23846765850423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/a3c4f5a3429017917689efe808285db7547a281a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_318e3ebf60a8f7cb5d8f5c1ae4caefa87f3c2392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/ca2fc3d99579d20f2a0a065de0a2e29b324f435b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_180042a22a659f00fb6b85d635602ccde562d017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/6e1acdd6dacaf363e6fedd0fc677933971af6093/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_e6fd0cd9d506e4ca43ac9bdd5d23a93e946fde67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/77c4304fdcca3f0266c6989cd55d6de41c7bff34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_e8a2659c4ce90abc3a5c2c86127c566c38ddcfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/b47ccb769887c32ef54e4b513869d1d4505e865e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_0a47e3933f58a178617a5f6187e81c015c078357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/b6e00738bb3e867b3e0d92c95f3a69e180ee4d9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_b9a530cdc56b7d22b28f82f046847de343acb8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhrn/.android/build-cache/54bd4519ed53207312ba0bf287dbbd8d1a206d92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/home/dhrn/AndroidStudioProjects/MapsProjectApp/app/build/intermediates/pre-dexed/debug/classes_43503f0dd708a4750208c7c23de64c670c7b8995.jar" />
+    </item>
+
+</items>
